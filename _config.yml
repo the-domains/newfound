@@ -1,6 +1,6 @@
 name: Newfound
 favicon: null
-layout_spectrum: 0.8823838920798153
+layout_spectrum: 1
 typography_spectrum: 0.7430991975124925
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ad9c80'
+    - '#3a3743'
+    - '#d6d5db'
+    - '#20130f'
+    - '#a2756b'
   brandStrength: 0.6888213669881225
   lightness: 0.8735484122298658
   saturation: 0.29997146502137184
