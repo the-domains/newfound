@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Newfound]]></title>
         <description><![CDATA[Newfound]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/newfound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 21:20:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 21:24:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/newfound/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined137aff6d-f3dd-49f4-9d52-a1f103ae6f6e/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/732297d7-49b4-45b4-9d3a-9400548e4dc6.jpg">]]></description>
+            <link>https://thegrid.ai/newfound/137aff6d-f3dd-49f4-9d52-a1f103ae6f6e/index.html</link>
             <guid isPermaLink="false">137aff6d-f3dd-49f4-9d52-a1f103ae6f6e</guid>
-            <pubDate>Wed, 24 Feb 2016 21:20:20 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 21:23:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
